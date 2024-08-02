@@ -11,6 +11,7 @@
     It provides insights into the application's performance, aids in identifying and diagnosing issues, and 
     is essential for auditing and compliance purposes. 
     Effective logging helps in:
+    
       --Debugging and fixing bugs
       --Monitoring the application's behavior and performance.
       --Maintaining a history of application events for auditing purposes.
