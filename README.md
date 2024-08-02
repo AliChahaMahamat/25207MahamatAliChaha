@@ -4,6 +4,8 @@
     This LogRecord is then sent to corresponding handlers or appenders. 
     Before being output to a console or file, appenders format the log record using formatters or layouts.
 
+
+
 2---Importance of Logging
     Logging is crucial for debugging, monitoring, and maintaining an application. 
     It provides insights into the application's performance, aids in identifying and diagnosing issues, and 
@@ -13,6 +15,9 @@
       --Monitoring the application's behavior and performance.
       --Maintaining a history of application events for auditing purposes.
       --Ensuring compliance with industry standards and regulations.
+
+
+      
 3---Log Levels
     Log levels control the detail and extent of log files generated.
     Each level has a numeric value, and there are seven basic log levels and two special ones. 
