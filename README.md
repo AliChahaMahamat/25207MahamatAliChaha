@@ -12,10 +12,10 @@
     is essential for auditing and compliance purposes. 
     Effective logging helps in:
     
-      --Debugging and fixing bugs
-      --Monitoring the application's behavior and performance.
-      --Maintaining a history of application events for auditing purposes.
-      --Ensuring compliance with industry standards and regulations.
+--Debugging and fixing bugs.
+--Monitoring the application's behavior and performance.
+--  Maintaining a history of application events for auditing purposes.
+-- Ensuring compliance with industry standards and regulations.
 
 
       
@@ -26,11 +26,12 @@
     The basic logging levels are:
 
     
-Level	     Value	    Used for
-SEVERE	   1000	      Indicates serious failures
-WARNING	   900	      Potential problems
-INFO	     800	      General informational messages
-CONFIG	   700	      Configuration-related messages
-FINE	     500	      General developer information
-FINER	     400	      Detailed developer information
-FINEST	   300	      Highly detailed developer info
+ Level	 	Value	  Used for
+
+--SEVERE	 1000	  Indicates serious failures
+--WARNING	  900	  Potential problems
+--INFO	 	  800	  General informational messages
+--CONFIG	  700	  Configuration-related messages
+--FINE	      500	  General developer information
+--FINER	      400	  Detailed developer information
+--INEST	      300	  Highly detailed developer info
