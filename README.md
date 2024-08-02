@@ -11,7 +11,6 @@
     It provides insights into the application's performance, aids in identifying and diagnosing issues, and 
     is essential for auditing and compliance purposes. 
     Effective logging helps in:
-    
       --Debugging and fixing bugs
       --Monitoring the application's behavior and performance.
       --Maintaining a history of application events for auditing purposes.
@@ -24,6 +23,8 @@
     Each level has a numeric value, and there are seven basic log levels and two special ones. 
     By specifying the desired level of logging, you can filter the amount of detail captured in the logs. 
     The basic logging levels are:
+
+    
 Level	     Value	    Used for
 SEVERE	   1000	      Indicates serious failures
 WARNING	   900	      Potential problems
